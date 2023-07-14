@@ -1,5 +1,6 @@
 # Rock-Paper-scissors-Game
 A fun C++ Rock-paper-scissors game
+
 How to play=>
 1. Enter your name
 2. Enter the number of turns you want to play
